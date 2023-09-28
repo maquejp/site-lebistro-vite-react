@@ -19,8 +19,10 @@
 	  },
 	  "vscode": {
 		"extensions": [
-		  "dbaeumer.vscode-eslint",
-		  "esbenp.prettier-vscode"
+			"dbaeumer.vscode-eslint",
+			"esbenp.prettier-vscode",
+			"antfu.vite",
+			"github.vscode-github-actions"
 		]
 	  }
 	}
