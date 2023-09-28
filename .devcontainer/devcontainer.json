@@ -22,7 +22,8 @@
 			"dbaeumer.vscode-eslint",
 			"esbenp.prettier-vscode",
 			"antfu.vite",
-			"github.vscode-github-actions"
+			"github.vscode-github-actions",
+			"ms-azuretools.vscode-docker"
 		]
 	  }
 	}
