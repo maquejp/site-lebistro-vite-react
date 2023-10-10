@@ -1,0 +1,54 @@
+[
+  {
+    "id": "menu_2200",
+    "title": "Menu à",
+    "price": "22,00 €",
+    "items": [
+      {
+        "id": "entree_2200",
+        "title": "Entrée",
+        "items": [
+          {
+            "title": "La salade aux gésiers de volaille"
+          },
+          {
+            "title": "L'assiette de paté de campagne"
+          },
+          {
+            "title": "Cassolette de moules à l'estragon"
+          }
+        ]
+      },
+      {
+        "id": "plat_2200",
+        "title": "Plat",
+        "items": [
+          {
+            "title": "Dos de cabillaud, sauce beurre persillé"
+          },
+          {
+            "title": "Steak haché, sauce au poivre"
+          },
+          {
+            "title": "Omelette aux fruits de mer"
+          }
+        ]
+      },
+      {
+        "id": "dessert_2200",
+        "title": "Dessert",
+        "items": [
+          {
+            "title": "L'île flottante"
+          },
+          {
+            "title": "Le Tiramisu aux spéculoos"
+          },
+          {
+            "title": "La tarte Maison"
+          }
+        ]
+      }
+    ]
+  }
+]

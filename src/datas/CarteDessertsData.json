@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Les desserts",
+    "notes": [],
+    "items": [
+      {
+        "title": "L'assiette de fromages",
+        "subtitle": "-",
+        "price": "6,60€"
+      },
+      {
+        "title": "L'île flottante",
+        "subtitle": "-",
+        "price": "6,60€"
+      },
+      {
+        "title": "Les crêpes au sucre",
+        "subtitle": "-",
+        "price": "3,80€"
+      },
+      {
+        "title": "Les crêpes au chocolat",
+        "subtitle": "-",
+        "price": "4,40€"
+      },
+      {
+        "title": "Les crêpes chantilly Maison",
+        "subtitle": "-",
+        "price": "4,30€"
+      },
+      {
+        "title": "La mousse au chocolat Maison",
+        "subtitle": "-",
+        "price": "6,60€"
+      },
+      {
+        "title": "La tarte du jour",
+        "subtitle": "-",
+        "price": "6,50€"
+      },
+      {
+        "title": "Le café gourmand",
+        "subtitle": "-",
+        "price": "7,10€"
+      },
+      {
+        "title": "Le tiramisu au Spéculoos",
+        "subtitle": "-",
+        "price": "5,50€"
+      }
+    ]
+  }
+]

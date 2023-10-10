@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Nos poisson et Fruits de mer",
+    "notes": [],
+    "items": [
+      {
+        "title": "Moules Marinières",
+        "subtitle": "-",
+        "price": "14,80€"
+      },
+      {
+        "title": "Pavé de saumon sauce aux crevettes grises",
+        "subtitle": "-",
+        "price": "19,60€"
+      },
+      {
+        "title": "Dos de cabillaud sauce beurre persillé",
+        "subtitle": "-",
+        "price": "18,80€"
+      },
+      {
+        "title": "L'omelette aux fruits de mer",
+        "subtitle": "-",
+        "price": "13,20€"
+      },
+      {
+        "title": "Bar entier poché et sauce béarnaise",
+        "subtitle": "-",
+        "price": "20,60€"
+      },
+      {
+        "title": "L'aile de raie sauce aux câpres",
+        "subtitle": "-",
+        "price": "17,80€"
+      },
+      {
+        "title": "La sole meunière",
+        "subtitle": "-",
+        "price": "25,20€"
+      },
+      {
+        "title": "Plateau de fruit de mer",
+        "subtitle": "Un crabe entier, crevettes roses, crevettes grises, bulots, huîtres et langoustines",
+        "price": "32,50€"
+      }
+    ]
+  }
+]

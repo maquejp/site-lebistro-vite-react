@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Nos entrées chaudes ou froides",
+    "notes": [],
+    "items": [
+      {
+        "title": "La cassolette de Moules à l'Estragon",
+        "subtitle": "-",
+        "price": "8,80€"
+      },
+      {
+        "title": "La salade de Gésiers de volaille",
+        "subtitle": "-",
+        "price": "8,00€"
+      },
+      {
+        "title": "L'assiette de saumon fumé et ses toasts grillés",
+        "subtitle": "-",
+        "price": "9,40€"
+      },
+      {
+        "title": "La salade au chèvre chaud",
+        "subtitle": "-",
+        "price": "8,40€"
+      },
+      {
+        "title": "L'assiette de pâté de campagne",
+        "subtitle": "-",
+        "price": "4,20€"
+      },
+      {
+        "title": "Le potage de légumes",
+        "subtitle": "-",
+        "price": "8,00€"
+      },
+      {
+        "title": "La soupe de poissons et ses croûtons",
+        "subtitle": "-",
+        "price": "9,00€"
+      },
+      {
+        "title": "Les beignets de calamars",
+        "subtitle": "-",
+        "price": "9,50€"
+      },
+      {
+        "title": "L'assiettes de bulots",
+        "subtitle": "-",
+        "price": "11,80€"
+      },
+      {
+        "title": "L'assiette de crevettes gris et roses",
+        "subtitle": "-",
+        "price": "12,20€"
+      },
+      {
+        "title": "La douzaine d'huîtres",
+        "subtitle": "-",
+        "price": "18,80€"
+      },
+      {
+        "title": "Le gratiné de St Jacques à la fleur d'Audresselles",
+        "subtitle": "-",
+        "price": "15,50€"
+      },
+      {
+        "title": "L'assiette du pêcheur",
+        "subtitle": "Assiette de fruits de mer avec un demi-crabe et une langoustine",
+        "price": "18,90€"
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Les omelettes, Les viandes",
+    "notes": [],
+    "items": [
+      {
+        "title": "Les Fricadelles",
+        "subtitle": "-",
+        "price": "9,50€"
+      },
+      {
+        "title": "L'omelette au jambon ou fromage ou lardons",
+        "subtitle": "-",
+        "price": "8,60€"
+      },
+      {
+        "title": "L'omelette Paysanne (Pomme de terre, lardons et herbes",
+        "subtitle": "-",
+        "price": "9,20€"
+      },
+      {
+        "title": "Le steak tartare",
+        "subtitle": "-",
+        "price": "13,20€"
+      },
+      {
+        "title": "Le steak haché sauce au poivre",
+        "subtitle": "-",
+        "price": "15,50€"
+      },
+      {
+        "title": "L'entrecôte sauce au poivre ou au Roquefort",
+        "subtitle": "-",
+        "price": "20,40€"
+      },
+      {
+        "title": "L'émincé de dinde à la crème et aux champignons",
+        "subtitle": "-",
+        "price": "15,80€"
+      }
+    ]
+  }
+]

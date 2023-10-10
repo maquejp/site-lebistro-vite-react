@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Les plats enfants",
+    "notes": [
+      "Les plats sont accompagnés de frites, légumes, pommes vapeurs, riz ou pâtes"
+    ],
+    "items": [
+      {
+        "title": "Fricadelle",
+        "subtitle": "-",
+        "price": "7,20€"
+      },
+      {
+        "title": "Le jambon nature",
+        "subtitle": "-",
+        "price": "6,80€"
+      },
+      {
+        "title": "Les moules marinières",
+        "subtitle": "-",
+        "price": "8,20€"
+      },
+      {
+        "title": "Les saucisses",
+        "subtitle": "-",
+        "price": "6,20€"
+      },
+      {
+        "title": "Le steak haché",
+        "subtitle": "-",
+        "price": "7,80€"
+      },
+      {
+        "title": "Le dos de cabillaud",
+        "subtitle": "-",
+        "price": "7,40€"
+      }
+    ]
+  }
+]
