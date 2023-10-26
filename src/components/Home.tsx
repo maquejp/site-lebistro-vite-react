@@ -1,4 +1,4 @@
-import {Box, Card, CardContent, CardMedia, List, ListItem, ListItemText, Typography} from "@mui/material";
+import { Box, Card, CardContent, CardMedia, List, ListItem, ListItemText, Typography } from "@mui/material";
 
 export default function Home() {
     const listVacation: string[] = [
@@ -7,7 +7,7 @@ export default function Home() {
         "Congé annuel 2024, du 27 Janvier 2024 à midi au 16 Février 2024 inclus",
     ];
     return (
-        <Card sx={{
+        <Card id="home" sx={{
             marginTop: 2,
         }}>
             <CardMedia
@@ -75,7 +75,7 @@ export default function Home() {
                             listVacation.map(
                                 v => (
                                     <ListItem key={v}>
-                                        <ListItemText primary={v}/>
+                                        <ListItemText primary={v} />
                                     </ListItem>
                                 )
                             )
