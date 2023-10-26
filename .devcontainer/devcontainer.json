@@ -1,30 +1,32 @@
-
 {
 	"name": "LeBistroViteReact",
 	"image": "mcr.microsoft.com/devcontainers/universal:2-linux",
-	"forwardPorts": [3000],
+	"forwardPorts": [
+		3000
+	],
 	"portsAttributes": {
-	  "3000": {
-		"label": "React App",
-		"onAutoForward": "openPreview"
-	  }
+		"3000": {
+			"label": "React App",
+			"onAutoForward": "openPreview"
+		}
 	},
 	"updateContentCommand": "npm install",
 	"postAttachCommand": "npm run dev",
-  
 	// Configure tool-specific properties.
 	"customizations": {
-	  "codespaces": {
-		"openFiles": ["src/App.tsx"]
-	  },
-	  "vscode": {
-		"extensions": [
-			"dbaeumer.vscode-eslint",
-			"esbenp.prettier-vscode",
-			"antfu.vite",
-			"github.vscode-github-actions",
-			"ms-azuretools.vscode-docker"
-		]
-	  }
+		"codespaces": {
+			"openFiles": [
+				"src/App.tsx"
+			]
+		},
+		"vscode": {
+			"extensions": [
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode",
+				"antfu.vite",
+				"github.vscode-github-actions",
+				"ms-azuretools.vscode-docker"
+			]
+		}
 	}
 }
