@@ -13,7 +13,7 @@ export default function Home() {
             <CardMedia
                 component="img"
                 height="600"
-                image="facade.jpg"
+                image="facade.svg"
                 alt="Le Bistro"
             />
             <CardContent>
